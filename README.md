@@ -106,12 +106,10 @@ Performance Evaluation
 | Model | Accuracy |
 |--------|----------|
 | Logistic Regression | **90.15%** |
-| Decision Tree | **99.50%** |
-| Random Forest | **99.45%** |
+| Decision Tree | **99.40%** |
+| Random Forest | **99.55%** |
 
-> **Best Performing Model:** Decision Tree Classifier
-
-*(Update this table if your final results change.)*
+> **Best Performing Model:** Logistic Regression Classifier
 
 ---
 
