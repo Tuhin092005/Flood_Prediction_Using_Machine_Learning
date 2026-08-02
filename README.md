@@ -69,7 +69,7 @@ The dataset contains the following features:
 
 The following models are implemented:
 
-- Logistic Regression
+- Logistic Regression Classifier
 - Decision Tree Classifier
 - Random Forest Classifier
 
