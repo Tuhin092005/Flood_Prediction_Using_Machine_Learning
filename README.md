@@ -210,6 +210,8 @@ Flood Risk : HIGH
 
 B.Tech in Computer Science & Engineering (AI & ML)
 
+Meghnad Saha Institute of Technology (MSIT), Kolkata
+
 ---
 
 ## ⭐ If you found this project useful
@@ -221,3 +223,17 @@ Give this repository a ⭐ and feel free to fork it!
 ## 📜 License
 
 This project is intended for educational and learning purposes.
+
+---
+
+## ⭐ Support
+
+If you like this project,
+
+⭐ Star this repository
+
+🍴 Fork this repository
+
+📢 Share it with others
+
+Happy Coding! 🚀
