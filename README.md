@@ -158,10 +158,11 @@ pip install -r requirements.txt
 ### ▶️ Run the project
 
 ```bash
-python flood_prediction.py
+### Using Python
+python Flood_Risk_Prediction_System.py
 ```
 
-### Using Google Colab
+### Using Google Colab Using Python
 
 Open
 
