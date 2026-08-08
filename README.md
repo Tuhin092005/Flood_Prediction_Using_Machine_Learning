@@ -1,4 +1,4 @@
-# 🌊 Flood Prediction Using Machine Learning
+# 🌊 Flood Risk Prediction System Using Machine Learning
 
 Predicting flood occurrence using Machine Learning algorithms based on environmental and geographical factors.
 
@@ -140,13 +140,13 @@ Flood-Prediction-Using-Machine-Learning/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/Tuhin092005/Flood-Prediction-Using-Machine-Learning.git
+git clone https://github.com/Tuhin092005/Project_1_Flood_Risk_Prediction_System_Using_Machine_Learning.git
 ```
 
 ### Navigate to the project
 
 ```bash
-cd Flood-Prediction-Using-Machine-Learning
+cd Project_1_Flood_Risk_Prediction_System_Using_Machine_Learning
 ```
 
 ### Install required libraries
@@ -160,6 +160,20 @@ pip install -r requirements.txt
 ```bash
 python flood_prediction.py
 ```
+
+### Using Google Colab
+
+Open
+
+```text
+Flood_Risk_Prediction_System.ipynb
+```
+
+Upload:
+
+- flood_risk_india.csv
+
+Run all cells.
 
 ---
 
