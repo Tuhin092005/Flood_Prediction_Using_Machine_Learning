@@ -135,7 +135,7 @@ Flood-Prediction-Using-Machine-Learning/
 
 ---
 
-## 🚀 How to Run
+## 🚀 Installation
 
 ### Clone the repository
 
@@ -155,7 +155,7 @@ cd Project_1_Flood_Risk_Prediction_System_Using_Machine_Learning
 pip install -r requirements.txt
 ```
 
-### Run the project
+### ▶️ Run the project
 
 ```bash
 python flood_prediction.py
