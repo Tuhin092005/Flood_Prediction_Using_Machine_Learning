@@ -140,7 +140,7 @@ Flood-Prediction-Using-Machine-Learning/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Flood-Prediction-Using-Machine-Learning.git
+git clone https://github.com/Tuhin092005/Flood-Prediction-Using-Machine-Learning.git
 ```
 
 ### Navigate to the project
