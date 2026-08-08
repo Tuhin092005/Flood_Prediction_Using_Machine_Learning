@@ -1,4 +1,4 @@
-# 🌊 Flood Risk Prediction System Using Machine Learning
+# 🌊 Flood Risk Prediction System
 
 Predicting flood occurrence using Machine Learning algorithms based on environmental and geographical factors.
 
