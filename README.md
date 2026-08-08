@@ -157,8 +157,9 @@ pip install -r requirements.txt
 
 ### ▶️ Run the project
 
-```bash
 ### Using Python
+
+```bash
 python Flood_Risk_Prediction_System.py
 ```
 
